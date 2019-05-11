@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "c068f7c8a61fbdabc8b2fddcc344632c7432fca8"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "TalkingClock/1.0.0": {
+        "dependencies": {
+          "MSTest.TestFramework": "2.0.0-beta4",
+          "NAudio": "1.9.0",
+          "NVorbis": "0.8.6"
+        },
+        "runtime": {
+          "TalkingClock.dll": {}
+        }
+      },
+      "MSTest.TestFramework/2.0.0-beta4": {
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {
+            "assemblyVersion": "14.0.0.0",
+            "fileVersion": "14.0.3508.1"
+          },
+          "lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {
+            "assemblyVersion": "14.0.0.0",
+            "fileVersion": "14.0.3508.1"
+          }
+        }
+      },
+      "NAudio/1.9.0": {
+        "runtime": {
+          "lib/netstandard2.0/NAudio.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      },
+      "NVorbis/0.8.6": {
+        "runtime": {
+          "lib/netstandard2.0/NVorbis.dll": {
+            "assemblyVersion": "0.8.6.0",
+            "fileVersion": "0.8.6.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TalkingClock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MSTest.TestFramework/2.0.0-beta4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6XJ2ntIvwWwhox31WiZzji47WM/84xtra0TawOD2XnaXI/YmkhXvvC7dpCPmqFhwe/WY/OQmoDcBbkGqqxiIrg==",
+      "path": "mstest.testframework/2.0.0-beta4",
+      "hashPath": "mstest.testframework.2.0.0-beta4.nupkg.sha512"
+    },
+    "NAudio/1.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o8fRfk7i61ChorMlv+d9+CP41VXc64Xzj7lh8aVg91LdLDUtZVKBXqyxphwjsKL3SizQVF6y5JcquB0enLYGxw==",
+      "path": "naudio/1.9.0",
+      "hashPath": "naudio.1.9.0.nupkg.sha512"
+    },
+    "NVorbis/0.8.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YrK5eNQBa0fQYlKSaY/6s/pymqgek2MOylUyyaGElvPUvEJ6+wLARYmYJ+dTV4ZuNIutjw1aO7HJzDKIB+qdag==",
+      "path": "nvorbis/0.8.6",
+      "hashPath": "nvorbis.0.8.6.nupkg.sha512"
+    }
+  }
+}

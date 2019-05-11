@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d836a49-6767-4f8e-bd92-b84446f08cb6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TalkingClock/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TalkingClock/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TalkingClock/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TalkingClock/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TalkingClock/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/TalkingClock.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/TalkingClock.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/bin/Debug/netcoreapp2.1/TalkingClock.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/bin/Debug/netcoreapp2.1/TalkingClock.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/bin/Debug/netcoreapp2.1/TalkingClock.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/bin/Debug/netcoreapp2.1/TalkingClock.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/bin/Debug/netcoreapp2.1/TalkingClock.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/Debug/netcoreapp2.1/TalkingClock.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/Debug/netcoreapp2.1/TalkingClock.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/Debug/netcoreapp2.1/TalkingClock.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/Debug/netcoreapp2.1/TalkingClock.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/Debug/netcoreapp2.1/TalkingClock.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/Debug/netcoreapp2.1/TalkingClock.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/Debug/netcoreapp2.1/TalkingClock.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/Debug/netcoreapp2.1/TalkingClock.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/TalkingClock.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/TalkingClock.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/TalkingClock.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/TalkingClockTests.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/UnitTest1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/bin/Debug/netcoreapp2.1/TalkingClock.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/bin/Debug/netcoreapp2.1/TalkingClock.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/bin/Debug/netcoreapp2.1/TalkingClockTests.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/bin/Debug/netcoreapp2.1/TalkingClockTests.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/bin/Debug/netcoreapp2.1/TalkingClockTests.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/bin/Debug/netcoreapp2.1/TalkingClockTests.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/bin/Debug/netcoreapp2.1/TalkingClockTests.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/Debug/netcoreapp2.1/TalkingClockTests.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/Debug/netcoreapp2.1/TalkingClockTests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/Debug/netcoreapp2.1/TalkingClockTests.Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/Debug/netcoreapp2.1/TalkingClockTests.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/Debug/netcoreapp2.1/TalkingClockTests.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/Debug/netcoreapp2.1/TalkingClockTests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/Debug/netcoreapp2.1/TalkingClockTests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/Debug/netcoreapp2.1/TalkingClockTests.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/Debug/netcoreapp2.1/TalkingClockTests.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/Debug/netcoreapp2.1/TalkingClockTests.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/TalkingClockTests.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/TalkingClockTests.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/TalkingClockTests.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTest1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/TalkingClock.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/TalkingClock.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/TalkingClock.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TalkingClock/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+              <folding>
+                <marker date="1557596949266" expanded="true" signature="6:90" ph="..." />
+                <marker date="1557596949266" expanded="true" signature="216:961" ph="{...}" />
+                <marker date="1557596949266" expanded="true" signature="236:959" ph="{...}" />
+                <marker date="1557596949266" expanded="true" signature="282:953" ph="{...}" />
+                <marker date="1557596949266" expanded="true" signature="692:942" ph="{...}" />
+                <marker date="1557596949266" expanded="true" signature="852:928" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TalkingClock/TalkingClock.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
+              <folding>
+                <marker date="1557598726377" expanded="true" signature="6:136" ph="..." />
+                <marker date="1557598726377" expanded="true" signature="160:4059" ph="{...}" />
+                <marker date="1557598726377" expanded="true" signature="192:4057" ph="{...}" />
+                <marker date="1557598726377" expanded="true" signature="228:248" ph="{...}" />
+                <marker date="1557598726377" expanded="true" signature="300:1234" ph="{...}" />
+                <marker date="1557598726377" expanded="true" signature="424:518" ph="{...}" />
+                <marker date="1557598726377" expanded="true" signature="841:1075" ph="{...}" />
+                <marker date="1557598726377" expanded="true" signature="1294:1375" ph="{...}" />
+                <marker date="1557598726377" expanded="true" signature="1435:3575" ph="{...}" />
+                <marker date="1557598726377" expanded="true" signature="1506:3535" ph="{...}" />
+                <marker date="1557598726377" expanded="true" signature="3632:3835" ph="{...}" />
+                <marker date="1557598726377" expanded="true" signature="3891:4051" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TalkingClockTests/UnitTest1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="33" column="57" selection-start-line="33" selection-start-column="57" selection-end-line="33" selection-end-column="57" />
+              <folding>
+                <marker date="1557598917889" expanded="false" signature="6:86" ph="..." />
+                <marker date="1557598917889" expanded="true" signature="115:1139" ph="{...}" />
+                <marker date="1557598917889" expanded="true" signature="144:1137" ph="{...}" />
+                <marker date="1557598917889" expanded="true" signature="274:344" ph="{...}" />
+                <marker date="1557598917889" expanded="true" signature="388:1131" ph="{...}" />
+                <marker date="1557598917889" expanded="true" signature="470:779" ph="{...}" />
+                <marker date="1557598917889" expanded="true" signature="833:1121" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05253EB3-5C8B-455F-BE5C-239377E26AB6/2e/f67070c1/Buffer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TalkingClock/TalkingClock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TalkingClock/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05253EB3-5C8B-455F-BE5C-239377E26AB6/58/59e2784e/Number.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TalkingClockTests/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05253EB3-5C8B-455F-BE5C-239377E26AB6/00/ecacd755/String.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TalkingClock/Program.cs" />
+        <option value="$PROJECT_DIR$/TalkingClock/TalkingClock.cs" />
+        <option value="$PROJECT_DIR$/TalkingClockTests/UnitTest1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TalkingClock" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TalkingClock" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TalkingClock" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TalkingClock" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TalkingClockTests" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TalkingClock/bin/Debug/netcoreapp2.1/TalkingClock.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TalkingClock" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TalkingClock/TalkingClock.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d836a49-6767-4f8e-bd92-b84446f08cb6" name="Default Changelist" comment="" />
+      <created>1557582235257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557582235257</updated>
+      <workItem from="1557582254159" duration="15682000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15682000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25349087" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" weight="0.32968238" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.32968238" />
+      <window_info anchor="bottom" id="Unit Tests" weight="0.32968238" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Build" weight="0.32968238" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25349087" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Performance Profiler" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32968238" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="bottom" id="Run" order="11" />
+      <window_info anchor="bottom" id="Debug" order="12" visible="true" weight="0.39978093" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="2" />
+      <window_info anchor="right" id="Commander" order="3" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05253EB3-5C8B-455F-BE5C-239377E26AB6/58/59e2784e/Number.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="2367" column="57" selection-start-line="2367" selection-start-column="57" selection-end-line="2367" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05253EB3-5C8B-455F-BE5C-239377E26AB6/2e/f67070c1/Buffer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="164" column="10" selection-start-line="164" selection-start-column="10" selection-end-line="164" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05253EB3-5C8B-455F-BE5C-239377E26AB6/00/ecacd755/String.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-361">
+          <caret line="2297" column="6" selection-start-line="2297" selection-start-column="6" selection-end-line="2297" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TalkingClock/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding>
+            <marker date="1557596949266" expanded="true" signature="6:90" ph="..." />
+            <marker date="1557596949266" expanded="true" signature="216:961" ph="{...}" />
+            <marker date="1557596949266" expanded="true" signature="236:959" ph="{...}" />
+            <marker date="1557596949266" expanded="true" signature="282:953" ph="{...}" />
+            <marker date="1557596949266" expanded="true" signature="692:942" ph="{...}" />
+            <marker date="1557596949266" expanded="true" signature="852:928" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TalkingClock/TalkingClock.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <marker date="1557598726377" expanded="true" signature="6:136" ph="..." />
+            <marker date="1557598726377" expanded="true" signature="160:4059" ph="{...}" />
+            <marker date="1557598726377" expanded="true" signature="192:4057" ph="{...}" />
+            <marker date="1557598726377" expanded="true" signature="228:248" ph="{...}" />
+            <marker date="1557598726377" expanded="true" signature="300:1234" ph="{...}" />
+            <marker date="1557598726377" expanded="true" signature="424:518" ph="{...}" />
+            <marker date="1557598726377" expanded="true" signature="841:1075" ph="{...}" />
+            <marker date="1557598726377" expanded="true" signature="1294:1375" ph="{...}" />
+            <marker date="1557598726377" expanded="true" signature="1435:3575" ph="{...}" />
+            <marker date="1557598726377" expanded="true" signature="1506:3535" ph="{...}" />
+            <marker date="1557598726377" expanded="true" signature="3632:3835" ph="{...}" />
+            <marker date="1557598726377" expanded="true" signature="3891:4051" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TalkingClockTests/UnitTest1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="33" column="57" selection-start-line="33" selection-start-column="57" selection-end-line="33" selection-end-column="57" />
+          <folding>
+            <marker date="1557598917889" expanded="false" signature="6:86" ph="..." />
+            <marker date="1557598917889" expanded="true" signature="115:1139" ph="{...}" />
+            <marker date="1557598917889" expanded="true" signature="144:1137" ph="{...}" />
+            <marker date="1557598917889" expanded="true" signature="274:344" ph="{...}" />
+            <marker date="1557598917889" expanded="true" signature="388:1131" ph="{...}" />
+            <marker date="1557598917889" expanded="true" signature="470:779" ph="{...}" />
+            <marker date="1557598917889" expanded="true" signature="833:1121" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

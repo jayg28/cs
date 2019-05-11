@@ -1,0 +1,11 @@
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClock\bin\Debug\netcoreapp2.1\TalkingClock.deps.json
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClock\bin\Debug\netcoreapp2.1\TalkingClock.runtimeconfig.json
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClock\bin\Debug\netcoreapp2.1\TalkingClock.runtimeconfig.dev.json
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClock\bin\Debug\netcoreapp2.1\TalkingClock.dll
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClock\bin\Debug\netcoreapp2.1\TalkingClock.pdb
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClock\obj\Debug\netcoreapp2.1\TalkingClock.csprojAssemblyReference.cache
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClock\obj\Debug\netcoreapp2.1\TalkingClock.csproj.CoreCompileInputs.cache
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClock\obj\Debug\netcoreapp2.1\TalkingClock.AssemblyInfoInputs.cache
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClock\obj\Debug\netcoreapp2.1\TalkingClock.AssemblyInfo.cs
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClock\obj\Debug\netcoreapp2.1\TalkingClock.dll
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClock\obj\Debug\netcoreapp2.1\TalkingClock.pdb

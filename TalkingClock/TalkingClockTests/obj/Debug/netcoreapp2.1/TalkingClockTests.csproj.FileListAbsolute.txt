@@ -1,0 +1,17 @@
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClockTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClockTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClockTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClockTests\bin\Debug\netcoreapp2.1\TalkingClockTests.deps.json
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClockTests\bin\Debug\netcoreapp2.1\TalkingClockTests.runtimeconfig.json
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClockTests\bin\Debug\netcoreapp2.1\TalkingClockTests.runtimeconfig.dev.json
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClockTests\bin\Debug\netcoreapp2.1\TalkingClockTests.dll
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClockTests\bin\Debug\netcoreapp2.1\TalkingClockTests.pdb
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClockTests\bin\Debug\netcoreapp2.1\TalkingClock.dll
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClockTests\bin\Debug\netcoreapp2.1\TalkingClock.pdb
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClockTests\obj\Debug\netcoreapp2.1\TalkingClockTests.csprojAssemblyReference.cache
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClockTests\obj\Debug\netcoreapp2.1\TalkingClockTests.csproj.CoreCompileInputs.cache
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClockTests\obj\Debug\netcoreapp2.1\TalkingClockTests.AssemblyInfoInputs.cache
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClockTests\obj\Debug\netcoreapp2.1\TalkingClockTests.AssemblyInfo.cs
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClockTests\obj\Debug\netcoreapp2.1\TalkingClockTests.csproj.CopyComplete
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClockTests\obj\Debug\netcoreapp2.1\TalkingClockTests.dll
+C:\work\DailyChallenge\321\easy\cs\TalkingClock\TalkingClockTests\obj\Debug\netcoreapp2.1\TalkingClockTests.pdb

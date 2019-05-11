@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\work\\DailyChallenge\\321\\easy\\cs\\TalkingClock\\TalkingClock\\TalkingClock.csproj",
+    "projectName": "TalkingClock",
+    "projectPath": "C:\\work\\DailyChallenge\\321\\easy\\cs\\TalkingClock\\TalkingClock\\TalkingClock.csproj",
+    "outputPath": "C:\\work\\DailyChallenge\\321\\easy\\cs\\TalkingClock\\TalkingClock\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "MSTest.TestFramework": {
+          "target": "Package",
+          "version": "[2.0.0-beta4, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "NAudio": {
+          "target": "Package",
+          "version": "[1.9.0, )"
+        },
+        "NVorbis": {
+          "target": "Package",
+          "version": "[0.8.6, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
