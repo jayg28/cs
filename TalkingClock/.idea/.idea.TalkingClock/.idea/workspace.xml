@@ -1,68 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d836a49-6767-4f8e-bd92-b84446f08cb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TalkingClock/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TalkingClock/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TalkingClock/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TalkingClock/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TalkingClock/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/TalkingClock.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/TalkingClock.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/bin/Debug/netcoreapp2.1/TalkingClock.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/bin/Debug/netcoreapp2.1/TalkingClock.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/bin/Debug/netcoreapp2.1/TalkingClock.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/bin/Debug/netcoreapp2.1/TalkingClock.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/bin/Debug/netcoreapp2.1/TalkingClock.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/Debug/netcoreapp2.1/TalkingClock.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/Debug/netcoreapp2.1/TalkingClock.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/Debug/netcoreapp2.1/TalkingClock.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/Debug/netcoreapp2.1/TalkingClock.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/Debug/netcoreapp2.1/TalkingClock.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/Debug/netcoreapp2.1/TalkingClock.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/Debug/netcoreapp2.1/TalkingClock.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/Debug/netcoreapp2.1/TalkingClock.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/TalkingClock.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/TalkingClock.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/TalkingClock.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClock/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/TalkingClockTests.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/UnitTest1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/bin/Debug/netcoreapp2.1/TalkingClock.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/bin/Debug/netcoreapp2.1/TalkingClock.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/bin/Debug/netcoreapp2.1/TalkingClockTests.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/bin/Debug/netcoreapp2.1/TalkingClockTests.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/bin/Debug/netcoreapp2.1/TalkingClockTests.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/bin/Debug/netcoreapp2.1/TalkingClockTests.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/bin/Debug/netcoreapp2.1/TalkingClockTests.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/Debug/netcoreapp2.1/TalkingClockTests.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/Debug/netcoreapp2.1/TalkingClockTests.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/Debug/netcoreapp2.1/TalkingClockTests.Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/Debug/netcoreapp2.1/TalkingClockTests.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/Debug/netcoreapp2.1/TalkingClockTests.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/Debug/netcoreapp2.1/TalkingClockTests.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/Debug/netcoreapp2.1/TalkingClockTests.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/Debug/netcoreapp2.1/TalkingClockTests.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/Debug/netcoreapp2.1/TalkingClockTests.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/Debug/netcoreapp2.1/TalkingClockTests.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/TalkingClockTests.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/TalkingClockTests.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/TalkingClockTests.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TalkingClockTests/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnitTest1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/TalkingClock.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/TalkingClock.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/TalkingClock.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-    </list>
+    <list default="true" id="6d836a49-6767-4f8e-bd92-b84446f08cb6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,12 +178,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557582235257</updated>
-      <workItem from="1557582254159" duration="15682000" />
+      <workItem from="1557582254159" duration="15684000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15682000" />
+    <option name="totallyTimeSpent" value="15684000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
